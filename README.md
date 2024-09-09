@@ -92,7 +92,7 @@ This project showcases various Flutter functionalities and capabilities, includi
 To set up and run the DogCEO app, follow these steps:
     Clone the repository:
     
-        git clone https://github.com/your-repo-url/dogceo.git
+        git clone https://github.com/MikePoint0/dogceo.git
         cd dogceo
 
         Install dependencies: Ensure that you have Flutter installed. Then, run:
