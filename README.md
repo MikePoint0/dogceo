@@ -4,6 +4,7 @@ A comprehensive Flutter application for displaying dog breeds and related inform
 
 ## **NOTE**
     Download APK file from the projects rootfolder/[apk_file](apk_file)  
+    screenshots of flutter perfomance are in [flutter_performance_test_screenshots](flutter_performance_test_screenshots)
 
 ## **Overview**
 
