@@ -104,7 +104,7 @@ To set up and run the DogCEO app, follow these steps:
         flutter test
 
 **Dependencies**
-
+ 
 The DogCEO app relies on the following Flutter dependencies:
 
     flutter_bloc: Bloc state management package.
