@@ -2,6 +2,9 @@
 
 A comprehensive Flutter application for displaying dog breeds and related information.
 
+## **NOTE**
+    Download APK file from the projects rootfolder/[apk_file](apk_file)  
+
 ## **Overview**
 
 This project showcases various Flutter functionalities and capabilities, including API integration, state management using Bloc, real-time connectivity handling, and responsive UI. Below is a detailed list of the features implemented in this app.
